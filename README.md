@@ -1,6 +1,6 @@
 ### Olá, eu sou o Pedro Guimarães 👋
 
-- 🤓 Desenvolvedor Full Stack em formação na Cubos Academy
+- 🤓 Desenvolvedor Full Stack 
 
 <div align="center">
   <a href="https://github.com/Peuguima">
